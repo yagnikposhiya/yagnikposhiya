@@ -17,3 +17,4 @@ I am interested in developing novel neural network/LLM architectures inspired by
 
 - 🧑🏻 **[Eternal](https://github.com/yagnikposhiya/eternal-web)** - An appointment booking voice AI agent
 - 🤖 **[Omniverse](https://github.com/yagnikposhiya/Omniverse)** - Multimodal AI assistant
+- ❄️ **[Preon](https://github.com/yagnikposhiya/preon)** - A Python-based CLI for Ubuntu that allows natural-language file and directory management commands.
