@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm Yagnik 👋
 
-<!--
-**yagnikposhiya/yagnikposhiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 **Bengaluru, India** | 🦾 **Machine Learning Engineer** | 📖 **Independent Researcher**
 
-Here are some ideas to get you started:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Supabase](https://shields.io/badge/supabase-black?logo=supabase&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+I am interested in developing novel neural network/LLM architectures inspired by the functioning of the human brain, building Brain-Computer Interface (BCI) products or software solutions, and manufacturing robots and other electronic components.
+
+## Current Projects
+
+- 🧑🏻 **[Eternal](https://github.com/yagnikposhiya/eternal-web)** - An appointment booking voice AI agent
+- 🤖 **[Omniverse](https://github.com/yagnikposhiya/Omniverse)** - Multimodal AI assistant
