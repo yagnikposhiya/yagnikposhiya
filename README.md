@@ -1,4 +1,4 @@
-## Hi, I'm Yagnik 👋
+# Hi, I'm Yagnik 👋
 
 📍 **Bengaluru, India** | 🦾 **Machine Learning Engineer** | 📖 **Independent Researcher**
 
