@@ -15,7 +15,7 @@ I am interested in developing novel neural network/LLM architectures inspired by
 
 ## Current Projects
 
-- 🏠 **[Neural Engine](https://github.com/yagnikposhiya/neural-engine/tree/dev)** - An open-source marketplace of AI agents that can integrate into any website/web application.
+- 🏠 **[Neural Engine](https://github.com/yagnikposhiya/neural-engine/tree/dev)** - An open-source single-vendor marketplace of AI agents that can integrate into any website/web application.
 - 🗣️ **[Fluxvoice](https://github.com/yagnikposhiya/Fluxvoice)** - An open-source Voice-AI Reliability Infrastructure
 - 🧑🏻 **[Eternal](https://github.com/yagnikposhiya/eternal-web)** - An appointment booking voice AI agent; Open-source alternative to Cal.com and Calendly.
 - 🤖 **[Omniverse](https://github.com/yagnikposhiya/Omniverse)** - Multimodal AI assistant.
