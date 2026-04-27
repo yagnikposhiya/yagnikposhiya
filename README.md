@@ -17,6 +17,6 @@ I am interested in developing novel neural network/LLM architectures inspired by
 
 - 🏠 **[Neurons](https://github.com/Neurowork-Labs/Neurons)** - An open-source single-vendor marketplace of AI agents that can be integrated into any website/web application.
 - 🗣️ **[Fluxvoice](https://github.com/yagnikposhiya/Fluxvoice)** - An open-source Voice-AI Reliability Infrastructure
-- 🧑🏻 **[Eternal](https://github.com/yagnikposhiya/eternal-web)** - An appointment booking voice AI agent; Open-source alternative to Cal.com and Calendly.
+- 🧑🏻 **[Eternal](https://github.com/yagnikposhiya/eternal-web)** - An open-source appointment booking voice AI agent and alternative to Cal.com and Calendly.
 - 🤖 **[Omniverse](https://github.com/yagnikposhiya/Omniverse)** - Multimodal AI assistant.
 - ❄️ **[Preon](https://github.com/yagnikposhiya/preon)** - Python-based CLI for Ubuntu that allows natural-language file and directory management commands.
