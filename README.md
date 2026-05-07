@@ -25,9 +25,9 @@ Developing novel neural network/LLM architectures inspired by the functioning of
 
 ## Publications
 
-- Cross-Lingual Dictionary Generation Tool Using Phonetic Similarity for Natural Langauge Translation of Gujarati to Hindi - [Springer Nature](https://link.springer.com/chapter/10.1007/978-981-97-8591-9_17)
-- Survey and Current Research Challenges for Breast Cancer Detection - [AIP Publishing](https://pubs.aip.org/aip/acp/article-abstract/2965/1/020005/3302223/Survey-and-current-research-challenges-for-breast)
-- Brain Tumor Image Segmentation using Box-Unet Architecture - [IEEE Xplore](https://ieeexplore.ieee.org/document/10370887) | [GitHub](https://github.com/yagnikposhiya/brain-tumour-segmentation)
+- [Cross-Lingual Dictionary Generation Tool Using Phonetic Similarity for Natural Langauge Translation of Gujarati to Hindi](https://link.springer.com/chapter/10.1007/978-981-97-8591-9_17)
+- [Survey and Current Research Challenges for Breast Cancer Detection](https://pubs.aip.org/aip/acp/article-abstract/2965/1/020005/3302223/Survey-and-current-research-challenges-for-breast)
+- [Brain Tumor Image Segmentation using Box-Unet Architecture](https://ieeexplore.ieee.org/document/10370887) | [GitHub](https://github.com/yagnikposhiya/brain-tumour-segmentation)
 
 ## Patents
 
