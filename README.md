@@ -11,7 +11,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## About Me
-I am interested in developing novel neural network/LLM architectures inspired by the functioning of the human brain, building Brain-Computer Interface (BCI) products or software solutions, and manufacturing robots and other electronic components.
+I am interested in developing novel neural network/LLM architectures inspired by the functioning of the human brain, building Brain-Computer Interface (BCI) products or open-source software solutions, and manufacturing robots and other electronic components.
 
 ## Current Projects
 
