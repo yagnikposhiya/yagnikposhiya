@@ -9,6 +9,8 @@
 ![Supabase](https://shields.io/badge/supabase-black?logo=supabase&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![CLI](https://img.shields.io/badge/CLI-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ## Interested In
 Developing novel neural network/LLM architectures inspired by the functioning of the human brain, building Brain-Computer Interface (BCI) products or open-source software solutions, and manufacturing robots and other electronic components.
